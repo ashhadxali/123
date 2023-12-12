@@ -1,0 +1,95 @@
+body {
+    background: black;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+/* classes defined */
+.h1 {
+
+}
+
+.p1 {
+    color: aqua;
+    font-weight: 100;
+    font-size: medium;
+
+}
+
+.h2{
+    background-color: #c5901e;
+
+}
+
+.h3{
+
+}
+
+.p2{
+
+}
+
+.b1{
+
+}
+
+.class2{
+    font-size: 24px;
+}
+
+.logo{
+    /*ye 0px ky sath or center wala same hain, koi bhi ek lagalou*/
+    margin: 20px auto;
+    text-align: center;
+}
+
+/*just to add space between the icons*/
+.navigation-bar a {
+    margin: 30px ; /* Adjust the value according to your preference */
+}
+
+.banner {
+    text-align: center;
+    margin: 50px auto;
+}
+
+
+.data_table{
+    background-color: #220901;
+}
+
+.center_table{
+    color: aliceblue; /*font color*/
+    text-align: center;
+    margin: 0px auto;
+}
+
+.heading_table{
+    background: #b36a5e;
+    color: #001427; /*font color*/
+    font-weight: bold;
+    font-size: 20px;
+}
+/*ye without dot islye ha kiunky class ni ha ye*/
+ol{
+    background: #c5901e;
+}
+
+ul{
+    background: #001427;
+}
+/*header without dot ky ayega kiunky class ni ha ye*/
+/*more semantic ky lye azad chaiwala video html css 1:27:25*/
+header{
+    width: 75%;
+    border: 2px solid grey;
+    margin: 0px auto;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+    background: #240026;
+}
